@@ -1,13 +1,12 @@
 # 🏨 Hotel Booking Analytics — Power BI Dashboard
 
-A end-to-end Power BI project analysing hotel booking data to uncover revenue trends, booking patterns, and guest behaviour insights for a hotel chain client.
+An end-to-end Power BI project analysing hotel booking data to uncover revenue trends, booking patterns, and guest behaviour insights for a hotel chain client.
 
 ---
 
 ## 📊 Final Dashboard
 
-<img width="1701" height="876" alt="image" src="https://github.com/user-attachments/assets/fc3f000c-44b8-4fce-9af5-3f868b4c07f0" />
-
+<img width="1487" height="959" alt="image" src="https://github.com/user-attachments/assets/96a6a889-fd4d-40ec-9142-1590f1565943" />
 
 ---
 
@@ -27,9 +26,9 @@ A end-to-end Power BI project analysing hotel booking data to uncover revenue tr
 
 - **City Hotels dominate** — accounting for 52.18% of total revenue ($20.54M) vs Resort Hotels at 47.82% ($18.82M)
 - **Peak season is Q3** — the third quarter had the highest Total ADR, indicating summer is the busiest and most profitable period
-- **Lead time peaks in July/August** — guests book furthest in advance for summer arrivals, giving the hotel more planning runway
+- **Lead time peaks in July/August** — guests book furthest in advance for summer arrivals
 - **Portugal is the top booking country** — followed by the UK, France, Spain, and Germany
-- **No deposit bookings are most common** — suggesting an opportunity to incentivise advance deposits to reduce cancellations
+- **No deposit bookings are most common** — an opportunity to incentivise advance deposits to reduce cancellations
 - **Average ADR peaks mid-year** — rising from ~$75 in January to over $150 in August before declining
 
 ---
@@ -43,9 +42,7 @@ A prominent hotel chain engaged Datafied Technologies to leverage data analytics
 ## 📁 Data Sourcing
 
 - **Source:** [Kaggle — Hotel Booking Dataset](https://www.kaggle.com/)
-- Raw Data: View on Google Drive
-to:
-Power BI File: Download Dashboard on Google Drive
+- **Power BI File:** [Download Dashboard on Google Drive](https://drive.google.com/file/d/1gYg33c6ZDvbBa4Tao5DtiKULji-Jk2Q_/view?usp=drive_link)
 
 ---
 
