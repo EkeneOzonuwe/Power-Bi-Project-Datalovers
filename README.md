@@ -6,7 +6,8 @@ An end-to-end Power BI project analysing hotel booking data to uncover revenue t
 
 ## 📊 Final Dashboard
 
-<img width="1487" height="959" alt="image" src="https://github.com/user-attachments/assets/96a6a889-fd4d-40ec-9142-1590f1565943" />
+<img width="1703" height="870" alt="image" src="https://github.com/user-attachments/assets/a07d1bfc-782b-4d56-9a36-0e67f66b32f5" />
+
 
 ---
 
