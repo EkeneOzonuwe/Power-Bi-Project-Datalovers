@@ -43,7 +43,9 @@ A prominent hotel chain engaged Datafied Technologies to leverage data analytics
 ## 📁 Data Sourcing
 
 - **Source:** [Kaggle — Hotel Booking Dataset](https://www.kaggle.com/)
-- **Raw Data:** [View on Google Drive](https://drive.google.com/file/d/1gYg33c6ZDvbBa4Tao5DtiKULji-Jk2Q_/view?usp=drive_link)
+- Raw Data: View on Google Drive
+to:
+Power BI File: Download Dashboard on Google Drive
 
 ---
 
